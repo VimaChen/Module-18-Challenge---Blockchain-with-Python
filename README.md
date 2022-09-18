@@ -10,13 +10,13 @@ Open the provided pychain.py file, which you’ll use to complete the steps for 
 
 The steps for this Challenge are divided into the following sections:
 
-Create a Record Data Class
+    1.Create a Record Data Class
 
-Modify the Existing Block Data Class to Store Record Data
+    2.Modify the Existing Block Data Class to Store Record Data
 
-Add Relevant User Inputs to the Streamlit Interface
+    3.Add Relevant User Inputs to the Streamlit Interface
 
-Test the PyChain Ledger by Storing Records
+    4.Test the PyChain Ledger by Storing Records
 
 ## Streamlit
 
